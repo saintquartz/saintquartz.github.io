@@ -7,3 +7,4 @@ My prior background is an Electrical Engineering degree where I gain experience 
 semiconductor manufacturing. I enjoy tasty foods and always try to eat at a new resturant in NYC.
 
 [Resume](/docs/resume_github.pdf)
+[LinkedIn](https://www.linkedin.com/in/kevinchen4441/)
