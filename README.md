@@ -6,4 +6,4 @@ I aim to consistently build upon my skills and sink into the ocean that is Compu
 My prior background is an Electrical Engineering degree where I gain experience working in
 semiconductor manufacturing. I enjoy tasty foods and always try to eat at a new resturant in NYC.
 
-[Resume](/docs/resume_guthub.pdf)
+[Resume](/docs/resume_github.pdf)
